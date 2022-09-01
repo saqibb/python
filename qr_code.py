@@ -1,4 +1,3 @@
-# Track phone number
 #### pip install pyqrcode 
 import pyqrcode
 # pip install pypng
