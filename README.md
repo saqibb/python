@@ -1,3 +1,3 @@
 # python
-Python snippets
+Python snippets\n
 Tiny programs in python
